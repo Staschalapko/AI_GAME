@@ -1,0 +1,15 @@
+{
+  "name": "vk-57c5-setup-proj",
+  "version": "1.0.0",
+  "description": "Full-stack chat application monorepo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
